@@ -1,0 +1,6 @@
+[submodule "Bilkent-Cafeteria-Menu-API"]
+	path = Bilkent-Cafeteria-Menu-API
+	url = https://github.com/yibudak/Bilkent-Cafeteria-Menu-API
+[submodule "Bilkent-Cafeteria-Menu-iOS"]
+	path = Bilkent-Cafeteria-Menu-iOS
+	url = https://github.com/mustafa-altinisik/Bilkent-Cafeteria-Menu-iOS
